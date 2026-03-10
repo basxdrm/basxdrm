@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Abbas 👋</h1>
 
+![Snake animation](https://raw.githubusercontent.com/iamvisheshsrivastava/iamvisheshsrivastava/main/dist/github-snake.svg)
 <div align="center">
   <img src="https://images.unsplash.com/photo-1488745216254-5a9c136b05ff?q=80&w=2099&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Profile Banner" width="60%">
 </div>
